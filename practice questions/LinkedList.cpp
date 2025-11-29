@@ -39,7 +39,7 @@ class LinkedList {
 };
 
 int main() {
-  int arr[] = {10, 2, 5, 12};
+  int arr[] = {10, 12, 15, 2};
 
   Node* head = new Node(arr[0]);
   Node* temp = head;

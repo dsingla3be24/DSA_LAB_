@@ -31,7 +31,7 @@ int BinarySearchRecursive(int arr[], int l, int r, int k) {
 
 int main() {
   int l, r, k;
-  int arr[] = {1, 2, 3, 4, 5, 6, 7, 9, 20};
+  int arr[] = {11, 22, 33, 44, 56, 67, 78, 99, 200};
   l = 0;
   r = sizeof(arr) / sizeof(arr[0]) - 1;
   k = 7;
